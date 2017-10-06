@@ -253,4 +253,17 @@ p{color: #869093; font-size: 14px; line-height: 26px;  padding-bottom: 15px; mar
   						 border: none; margin-left: 0; margin-right: 0;}
   .navbar .btn-navbar:hover{background: #2a2a2a; color: #f85c5e; border: none;}
 
+  .buttonz:hover{
+        border-color: blue;
+        background-color: transparent;
+  }
+  .buttonz{
+    font-size: 20px;
+    border-color: orange;
+    background-color: pink;
+  }
+  .buttonz:active{
+    opacity: 0.2;
+  }
+
 
